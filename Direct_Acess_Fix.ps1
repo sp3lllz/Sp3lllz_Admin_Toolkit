@@ -1,6 +1,7 @@
 # Direct Access Fix
 # v1.0
-# Written By Sp3lllz 
+# Written By Sp3lllz
+# https://github.com/sp3lllz/Sp3lllz_Admin_Toolkit
 # Use Permitted under MIT licence
 
 #Self Elevation of console
