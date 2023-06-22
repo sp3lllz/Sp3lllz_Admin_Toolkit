@@ -19,3 +19,5 @@ This is a bat file that will replace the certificate for the lightspeed filterin
 A short script to add the Datto agent to a machine 
 ### 5. DHCP_Info_Fetch.ps1
 This script will fetch the DHCP scopes and a list of reservations in two CSVs (one for scopes and one for reservations) Prerequisites: this must be run on the DHCP server 
+### 6. Dead_Folder_Finder.ps1
+This one is kind of self explanitory, but very handy you specify a directory and it will scan and look for empty folders and remove them  
