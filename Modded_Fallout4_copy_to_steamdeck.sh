@@ -10,11 +10,11 @@ echo "The username of the currently logged in user is: $username"
 # Variables for the folders to be copied and the remote server details
 srcFolder1="C:\Users\\$username\AppData\Roaming\Vortex"
 srcFolder2="C:\Users\\$username\AppData\Local\Fallout4"
-srcFolder3="C:\Users\\$username\OneDrive\Documents\My Games\Fallout4"
+srcFolder3="C:\Users\\$username\Documents\My Games\Fallout4"
 srcFolder4="C:\Program Files (x86)\Steam\steamapps\common\Fallout 4"
 
+#variables for the steamdeck folders
 destUser="deck"
-#destHost="10.10.10.3"
 destFolder1="/home/deck/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/AppData/Roaming"
 destFolder2="/home/deck/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/AppData/Local"
 destFolder3="/home/deck/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games"
