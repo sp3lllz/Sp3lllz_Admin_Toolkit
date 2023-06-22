@@ -9,5 +9,6 @@ Please see the below index for a list of the scripts included in this and a brei
 
 ### 1. Direct_Access_fix.ps1
 This Sctipt is helps in a bind if your company uses direct access and your certificate expires before you can generate a new one to remove the old registry files and reboot the machine. Prerequisites: the device must be on site or at the least brought onsite after running this in order for the Direct Access settings to be refreshed once the script is run. 
-2. 
+### 2.Print_Nightmare_Fix.ps1
+This Script is a registry edit workaround for print nightmare this was written for Windows 10 22H1 and Windows 11 22H1 I cannot gaurentee this works on other verions of windows due to the nature of the issue this is trying to fix. 
 3. 
