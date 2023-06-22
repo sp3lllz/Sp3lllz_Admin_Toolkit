@@ -1,7 +1,7 @@
 # Copy Fallout 4 
 # v1.0
 # Written By Sp3lllz
-# https://github.com/sp3lllz/Sp3lllz_Admin_Toolkit
+# https://github.com/sp3lllz/Sp3lllz_Toolkit
 # Use Permitted under MIT licence
 
 #grab the users username
