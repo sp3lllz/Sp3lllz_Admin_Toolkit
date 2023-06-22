@@ -21,3 +21,7 @@ A short script to add the Datto agent to a machine
 This script will fetch the DHCP scopes and a list of reservations in two CSVs (one for scopes and one for reservations) Prerequisites: this must be run on the DHCP server 
 ### 6. Dead_Folder_Finder.ps1
 This one is kind of self explanitory, but very handy you specify a directory and it will scan and look for empty folders and remove them  
+### 7. Backup_FFXIV.ps1
+Just a little script I whiped up to backup my final fantasy files or when installing plugins juuuuussst in case
+### 8. Restore_FFXIV.ps1
+Does the opposite of the backup script 
