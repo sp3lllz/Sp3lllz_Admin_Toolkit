@@ -1,7 +1,7 @@
 #Backup FFXIV
 # v1.0
 # Written By Sp3lllz
-# https://github.com/sp3lllz/Sp3lllz_Admin_Toolkit
+# https://github.com/sp3lllz/Sp3lllz_Toolkit
 # Use Permitted under MIT licence
 
 #Promt User For the various paths needed to run the script
