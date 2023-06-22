@@ -15,3 +15,5 @@ This Script is a registry edit workaround for print nightmare this was written f
 This is a bat file that will replace the certificate for the lightspeed filtering system used in some schools and colleges if they expire 
 ### 4. Add_2_Datto.ps1 
 A short script to add the Datto agent to a machine 
+### 5. DHCP_Info_Fetch.ps1
+This script will fetch the DHCP scopes and a list of reservations in two CSVs (one for scopes and one for reservations) Prerequisites: this must be run on the DHCP server 
