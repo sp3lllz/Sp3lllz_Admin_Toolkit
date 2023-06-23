@@ -25,5 +25,7 @@ This one is kind of self explanitory, but very handy you specify a directory and
 Just a little script I whiped up to backup my final fantasy files or when installing plugins juuuuussst in case
 ### 8. Restore_FFXIV.ps1
 Does the opposite of the backup script 
-### 9.Modded_Fallout4_copy_to_steamdeck.sh
+### 9. Modded_Fallout4_copy_to_steamdeck.sh
 copys a modded copy of fallout 4 from a pc to a pc over SSH Prerequisites: have fallout 4 installed on your steam deck aswell as a copy installed on pc modded using the vortex mod manager. SSH also need to be enabled on your steamdeck 
+### 10. Clean_Your_Desktop.ps1
+moves all those files you dumped on to your desktop to their correct places automagically 
