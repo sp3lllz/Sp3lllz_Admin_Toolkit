@@ -1,4 +1,10 @@
 @echo off
+# Flac2MP3
+# v1.0
+# Written By Sp3lllz
+# https://github.com/sp3lllz/Sp3lllz_Toolkit
+# Use Permitted under MIT licence
+
 
 REM Prompt the user for the FLAC directory path
 set /p "flac_directory=Enter the path to the folder containing the FLAC files: "
