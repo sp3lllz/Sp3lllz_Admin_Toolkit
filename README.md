@@ -29,3 +29,5 @@ Does the opposite of the backup script
 copys a modded copy of fallout 4 from a pc to a pc over SSH Prerequisites: have fallout 4 installed on your steam deck aswell as a copy installed on pc modded using the vortex mod manager. SSH also need to be enabled on your steamdeck 
 ### 10. Clean_Your_Desktop.ps1
 moves all those files you dumped on to your desktop to their correct places automagically 
+### 11. FLAC_2_MP3.bat
+Simple batch script that uses ffmpeg to convert FLAC files to MP3 @ 320Kbps Prerequisites: FFMPEG must be installed you can check this by opening up a terminal window and running `ffmpeg -version`
