@@ -31,3 +31,6 @@ copys a modded copy of fallout 4 from a pc to a pc over SSH Prerequisites: have 
 moves all those files you dumped on to your desktop to their correct places automagically 
 ### 11. FLAC_2_MP3.bat
 Simple batch script that uses ffmpeg to convert FLAC files to MP3 @ 320Kbps Prerequisites: FFMPEG must be installed you can check this by opening up a terminal window and running `ffmpeg -version`
+### 12. Generate_TOTP_Hardware.ps1
+This script generates a random 8 digit serial and hex seed derived base32 secret key for SHA-1 TOTP based MFA Tokens this is handy for use with Microsoft Azure and Cisco Duo where the only to use 3rd party TOTP apps is to input hardware token information. 
+This will output a CSV of the tokens generated for simple import into Azure and Cisco Duo
