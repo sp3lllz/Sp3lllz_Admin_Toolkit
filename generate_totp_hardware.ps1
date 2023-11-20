@@ -1,4 +1,10 @@
-﻿function Generate-RandomNumber {
+#Generate TOTP Hardware Tokens
+# v1.0
+# Written By Sp3lllz
+# https://github.com/sp3lllz/Sp3lllz_Toolkit
+# Use Permitted under MIT licence
+ 
+ function Generate-RandomNumber {
     $random = New-Object System.Random
     $randomNumber = $random.Next(10000000, 100000000)
     return $randomNumber
